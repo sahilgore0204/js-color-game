@@ -6,3 +6,4 @@ RGB value of the guess color is shown on the screen.
 The position of guess color in the group of all colors in also chosen randomly.
 If the user clicks on the box with right color, an 'congratulations' alert message is shown, after which the colors are refreshed.
 If the user clicks on the box with wrong color he/she is given 2 more chances, after which a 'game over' alert is shown and then the colors are refreshed. 
+You can play the game at https://sahilgore0204.github.io/js-color-game/
